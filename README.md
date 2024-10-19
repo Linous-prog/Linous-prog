@@ -1,5 +1,5 @@
 
-## Hi!! 👋
+## Hi There! 👋
 
 <p align="center">
 My name is Matheus, I'm 23 years old. When I was a kid, I had my first contact with technology, and it was love at first sight. But I always considered technology as entertainment, rather than seeing it as a job. When I was 22 years old, I started learning about web development. After seeing it, the passion inside me overflowed again, but this time to become a developer. After this, I became a curious person, trying to learn as much as I can. Now I'm learning Python because it's a simple programming language used to build websites, software, etc. For me, it's a great opportunity because I know it's very challenging, but it's also very rewarding. <br>
